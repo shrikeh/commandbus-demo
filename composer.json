@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/psr7": "^1.4",
+        "league/tactician": "^1.0",
+        "shrikeh/teapot": "^2.3"
+    }
+}
